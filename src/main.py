@@ -1,4 +1,4 @@
-from somm import summ
 
 
-print (total)
+
+print (0)

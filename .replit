@@ -1,2 +1,2 @@
 language = "bash"
-run = "python3 src/lezione5/datatypes2.py"
+run = "python3 src/lezione6/flow.py"

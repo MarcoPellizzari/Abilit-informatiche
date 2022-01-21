@@ -1,0 +1,5 @@
+a = ("Marco", "Luca", "Claudio")
+b = ("Giovanna", "Maria", "Anna", "Francesca")
+x = zip(a, b) 
+print(tuple(x))
+print(x)
